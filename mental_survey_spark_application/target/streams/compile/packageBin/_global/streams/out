@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/harsh/Desktop/spark_learning/spark_application/first app/target/scala-2.11/spark-test-app_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	harsh[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/harsh/Desktop/spark_learning/spark_application/first app/target/scala-2.11/classes/harsh[0m
+[0m[[0m[0mdebug[0m] [0m[0m	harsh/SparkTestApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/harsh/Desktop/spark_learning/spark_application/first app/target/scala-2.11/classes/harsh/SparkTestApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	harsh/SparkTestApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/harsh/Desktop/spark_learning/spark_application/first app/target/scala-2.11/classes/harsh/SparkTestApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
