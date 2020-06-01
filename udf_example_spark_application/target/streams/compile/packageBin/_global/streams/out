@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/harsh/Desktop/spark_learning/spark_application/udf_example_spark_application/target/scala-2.12/udf-example_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkUDF.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/harsh/Desktop/spark_learning/spark_application/udf_example_spark_application/target/scala-2.12/classes/SparkUDF.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkUDF$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/harsh/Desktop/spark_learning/spark_application/udf_example_spark_application/target/scala-2.12/classes/SparkUDF$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkUDF$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/harsh/Desktop/spark_learning/spark_application/udf_example_spark_application/target/scala-2.12/classes/SparkUDF$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkUDF$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/harsh/Desktop/spark_learning/spark_application/udf_example_spark_application/target/scala-2.12/classes/SparkUDF$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
